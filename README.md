@@ -48,3 +48,17 @@
     <img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" width="40" height="40" />
   </a>
 </p>
+
+## 📌 Featured Projects
+
+<p align="left">
+  <a href="https://github.com/sleepy1009/MusicTherapyProject">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sleepy1009&repo=MusicTherapyProject&theme=dracula&show_icons=true&border_radius=10" alt="Project 1" width="32%" height="140"/>
+  </a>
+  <a href="https://github.com/sleepy1009/mes-aps">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sleepy1009&repo=mes-aps&theme=dracula&show_icons=true&border_radius=10" alt="Project 2" width="32%" />
+  </a>
+  <a href="https://github.com/sleepy1009/Catchball">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sleepy1009&repo=Catchball&theme=dracula&show_icons=true&border_radius=10" alt="Project 3" width="32%" />
+  </a>
+</p>
