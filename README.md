@@ -2,13 +2,31 @@
 
 ## About me
 - 🎓 Bachelor of Engineering in Software Engineering | Fresher full-stack + MES and game dev for as a hobby
-- 📫 Contact with me: Blockmine223@gmail.com
+- 📫 Contact: Blockmine223@gmail.com
 
 ### Listen with me (//'v'//)
 
-<a href="https://open.spotify.com/search/Yorushika%20Parade">
-  <img src="https://img.shields.io/badge/Spotify-Parade_--_Yorushika-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Parade - Yorushika" />
-</a>
+<table>
+  <tr>
+    <td width="90" align="center">
+      <a href="https://open.spotify.com/search/Yorushika%20Parade" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/en/e/e4/Yorushika_-_That%27s_Why_I_Gave_Up_on_Music.png" width="80" alt="Parade Album Cover" style="border-radius: 8px;">
+      </a>
+    </td>
+    <td width="300">
+      <a href="https://open.spotify.com/search/Yorushika%20Parade" target="_blank" style="text-decoration: none; color: inherit;">
+        <b>Parade (パレード)</b>
+      </a><br>
+      Yorushika (ヨルシカ)<br>
+      <i>だから僕は音楽を辞めた</i>
+    </td>
+    <td width="60" align="center">
+      <a href="https://open.spotify.com/search/Yorushika%20Parade" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" width="35" alt="Spotify">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -18,12 +36,6 @@
     <img src="https://skillicons.dev/icons?i=cpp,js,python,mysql" alt="My Skills" />
   </a>
 </p>
-
-<br>
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
