@@ -1,5 +1,5 @@
 # H3llo, i'm Pham Quoc Cuong
-- 🎓 Bachelor of Engineering in Software Engineering | Fresher full-stack + MES and game dev for as a hobby
+- Bachelor of Engineering in Software Engineering | Fresher full-stack + MES and game dev as a hobby
 
 
 ### Listen with me (//'v'//)
@@ -16,7 +16,6 @@
         <b>Parade (パレード)</b>
       </a><br>
       Yorushika (ヨルシカ)<br>
-      <i>だから僕は音楽を辞めた</i>
     </td>
     <td width="60" align="center">
       <a href="https://open.spotify.com/search/Yorushika%20Parade" target="_blank">
@@ -31,12 +30,21 @@
 ## 💻 Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,js,python,mysql" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=cpp,js,python,postgres" alt="My Skills" />
   </a>
 </p>
 
 ---
 
 ## 🔗 Connect with me
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://p3-portfolio-three.vercel.app/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/QLm76H3sZl/)
+<p align="left">
+  <a href="mailto:blockmine223@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" width="40" height="40" style="margin-right: 15px;" />
+  </a>
+  <a href="https://p3-portfolio-three.vercel.app/" target="_blank">
+    <img src="https://img.icons8.com/color/48/internet.png" alt="Portfolio" width="40" height="40" style="margin-right: 15px;" />
+  </a>
+  <a href="https://leetcode.com/u/QLm76H3sZl/" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" width="40" height="40" />
+  </a>
+</p>
