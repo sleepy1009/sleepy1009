@@ -1,8 +1,6 @@
 # H3llo, i'm Pham Quoc Cuong
-
-## About me
 - 🎓 Bachelor of Engineering in Software Engineering | Fresher full-stack + MES and game dev for as a hobby
-- 📫 Contact: Blockmine223@gmail.com
+
 
 ### Listen with me (//'v'//)
 
@@ -10,7 +8,7 @@
   <tr>
     <td width="90" align="center">
       <a href="https://open.spotify.com/search/Yorushika%20Parade" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/en/e/e4/Yorushika_-_That%27s_Why_I_Gave_Up_on_Music.png" width="80" alt="Parade Album Cover" style="border-radius: 8px;">
+        <img src="https://upload.wikimedia.org/wikipedia/en/8/8c/That%27s_Why_I_Gave_Up_on_Music.jpg" width="80" alt="Parade Album Cover" style="border-radius: 8px;">
       </a>
     </td>
     <td width="300">
